@@ -1,0 +1,1 @@
+RESTORE FILELISTONLY FROM DISK = '/var/opt/mssql/backup/BAKFILE.bak';
